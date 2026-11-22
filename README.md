@@ -11,7 +11,6 @@
 - 🌱 I love learning new things and exploring emerging technologies.  
 - 🏆 Proud winner of **STEM Innovators Expo 2025** for my **Robotic Arm Prototype**.  
 - 📜 Certified in **Machine Learning**.  
-- 🔐 Currently working on **AI-driven Next-Gen Firewall** for dynamic threat detection & Zero Trust implementation.  
 
 ---
 
