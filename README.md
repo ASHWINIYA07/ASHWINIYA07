@@ -1,10 +1,11 @@
 # Hi there 👋 I'm Ashwiniya Varatharaj
 
 🎓 B.Tech Student in **Artificial Intelligence & Data Science**  
-🤖 Passionate about **AI, Machine Learning & Data Science**  
-⚙️ Interested in **Backend Development, AI Applications & Intelligent Systems**  
-💡 Motto: *Code with Purpose*
+🤖 **AI | Machine Learning | LLM Applications**  
+⚙️ **Backend Development | Java | Spring Boot | REST APIs**  
+💡 Building practical AI and backend solutions that solve real-world problems.
 
+**Motto:** *Code with Purpose*
 ---
 
 ## 🚀 About Me
